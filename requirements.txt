@@ -1,0 +1,1 @@
+python-telegram-bot==20.6\naiohttp==3.9.3
